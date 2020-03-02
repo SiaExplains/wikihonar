@@ -1,0 +1,16 @@
+{
+  "name": "wikihonar-api",
+  "version": "1.0.0",
+  "description": "a platform for introduce arts and artists!",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [
+    "art",
+    "artists",
+    "wikihonar"
+  ],
+  "author": "Siavash Ghanbari, Sheida Mohassesy, Siavash Shahidi",
+  "license": "ISC"
+}
